@@ -5,11 +5,3 @@
 ## About Me 
 
 I'm a passionate 1st semester software engineering student  
-- 🌱 Currently learning: 
-- 🔭 Working on:
-- 🌍 Languages: 
-- 📫 How to reach me:
-- ⚡ Fun fact: 
-
-## My Skills 🧠
-
